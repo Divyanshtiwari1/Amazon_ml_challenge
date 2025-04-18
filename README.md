@@ -13,5 +13,5 @@ Note: For test.csv, you will not see the column entity_value as it is the target
 Output Format:
 The output file should be a CSV with 2 columns:
 
-so i have completed this problem statement with accuracy of 0.46215635 and got rank 191 at Amazon ML challenge . 
+so i have completed this problem statement with the accuracy of 0.46215635 and got rank 191 at Amazon ML challenge . 
 As, i was the leader of the team (Enigma Learners ) and i have used simple RegEx code for this .
