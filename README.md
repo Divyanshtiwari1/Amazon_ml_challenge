@@ -15,3 +15,7 @@ The output file should be a CSV with 2 columns:
 
 so i have completed this problem statement with the accuracy of 0.46215635 and got rank 191 at Amazon ML challenge . 
 As, i was the leader of the team (Enigma Learners ) and i have used simple RegEx code for this .
+
+
+
+![mlch](https://github.com/user-attachments/assets/10afe7a0-e94d-45ed-83aa-8af8dea4df94)
